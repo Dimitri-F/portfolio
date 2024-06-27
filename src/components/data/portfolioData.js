@@ -38,45 +38,16 @@ export const portafolioData = [
 		averageBrightness: 0.1,
 	},
 	{
-		imgSrc: 'https://i0.wp.com/themes.svn.wordpress.org/cafe-cafeteria/1.5.3/screenshot.png',
-		title: 'Coffe Store',
-		skills: ['React', 'CSS'],
+		imgSrc: '/img/morpion-screenshot.PNG',
+		title: 'Jeu du Morpion',
+		skills: ['JavaScript'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
-		demoURL: '',
-		repoURL: '',
+			'Je suis ravi de vous présenter mon projet de développement d\'un jeu du Morpion interactif. Ce jeu classique, également connu sous le nom de Tic-Tac-Toe, a été conçu pour offrir une expérience de jeu intuitive avec une interface utilisateur responsive.Les joueurs peuvent entrer leurs noms, jouer en mode joueur contre joueur, et voir leurs scores mis à jour en temps réel.Une fonctionnalité de modal annonce le gagnant ou un match nul.',
+		demoURL: 'https://dimitri-f.github.io/tictactoe/',
+		repoURL: 'https://github.com/Dimitri-F/tictactoe',
 		anim: 'fade-left',
 	},
-	{
-		imgSrc: 'https://www.corse.mx/cdn/shop/files/tienda_lenceria-lenceria-hot_sale-ofertas-mexico-lenceria_seyx-encaje-corse_mx-corse_lenceria_1200_x_560_px_13.png?v=1712270274&width=1500',
-		title: 'Coffe Store',
-		skills: ['React', 'CSS'],
-		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
-		demoURL: '',
-		repoURL: '',
-		anim: 'fade-left',
-	},
-	{
-		imgSrc: 'https://i0.wp.com/themes.svn.wordpress.org/cafe-cafeteria/1.5.3/screenshot.png',
-		title: 'Coffe Store',
-		skills: ['React', 'CSS'],
-		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
-		demoURL: '',
-		repoURL: '',
-		anim: 'fade-left',
-	},
-	{
-		imgSrc: 'https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2021/06/copy-of-the-6-best-restaurant-website-templates-1.png',
-		title: 'Restaurant',
-		skills: ['React', 'StyledComponents'],
-		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
-		demoURL: '',
-		repoURL: '',
-		anim: 'fade-right',
-	}
+	
 ];
 
 const skillIcons = {
